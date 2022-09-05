@@ -1,0 +1,8 @@
+"_usedPlayMode": 2,
+"_notCopyToGlobal": true,
+"_globalDefaultTopList": true,
+"_masterVolume": 1,
+"_musicVolume": 2,
+"_effectVolume": 3,
+"_musicSequenceType": 1,
+"_levelSOName": "Beginner"

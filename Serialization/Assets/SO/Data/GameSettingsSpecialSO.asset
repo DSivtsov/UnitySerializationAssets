@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1298e79529f66f4c9ae6498611452f5, type: 3}
+  m_Name: GameSettingsSpecialSO
+  m_EditorClassIdentifier: 
+  _levelPlayer: {fileID: 11400000, guid: d10d926833dfddf438c23d22d850bfa3, type: 2}
+  _usedPlayMode: 2
+  _notCopyToGlobal: 1
+  _globalDefaultTopList: 1
+  _masterVolume: 1
+  _musicVolume: 2
+  _effectVolume: 3
+  _musicSequenceType: 1
+  _levelSOName: Beginner

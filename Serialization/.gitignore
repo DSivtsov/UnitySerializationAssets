@@ -64,5 +64,8 @@ crashlytics-build.properties
 #*.png
 #*.tga
 #*.psd
-#/Assets/OdinSerializer*
-/Assets/Scenes
+
+# Special for current Project
+_test.build*
+#/Assets/TextMesh Pro*
+/Assets/Scripts/.editorconfig

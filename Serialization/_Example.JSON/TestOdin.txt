@@ -1,0 +1,12 @@
+{
+    "$id": 0,
+    "$type": "0|GameSettings, Assembly-CSharp",
+    "_complexityGame": $eref:0,
+    "_usedPlayMode": 2,
+    "_notCopyToGlobal": true,
+    "_globalDefaultTopList": true,
+    "_masterVolume": 1,
+    "_musicVolume": 1,
+    "_effectVolume": 1,
+    "_musicSequenceType": 2
+}

@@ -1,0 +1,37 @@
+OdinSerializer package (OdinSerializer.unitypackage)
+
+1. After Install
+Assets\OdinSerializer\Utilities\Misc\EmitUtilities.cs(20,8): error CS1029: #error: 'Odin Inspector is incapable of compiling source code against the .NET Standard 2.0 API surface. You can change the API Compatibility Level in the Player settings.'
+
+2. After change settings to .Net 4.x
+Assets\OdinSerializer\Utilities\Misc\AssemblyImportSettingsUtilities.cs(106,21): warning CS0618: 'BuildTarget.StandaloneLinux' is obsolete: 'StandaloneLinux has been removed in 2019.2'
+Assets\OdinSerializer\Utilities\Misc\AssemblyImportSettingsUtilities.cs(108,21): warning CS0618: 'BuildTarget.StandaloneLinuxUniversal' is obsolete: 'StandaloneLinuxUniversal has been removed in 2019.2'
+Assets\OdinSerializer\Config\AssemblyBuildInfo.cs(98,13): warning CS0618: 'BuildTarget.StandaloneLinux' is obsolete: 'StandaloneLinux has been removed in 2019.2'
+Assets\OdinSerializer\Config\AssemblyBuildInfo.cs(100,13): warning CS0618: 'BuildTarget.StandaloneLinuxUniversal' is obsolete: 'StandaloneLinuxUniversal has been removed in 2019.2'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(822,56): warning CS0618: 'PrefabUtility.FindPrefabRoot(GameObject)' is obsolete: 'Use GetOutermostPrefabInstanceRoot if source is a Prefab instance or source.transform.root.gameObject if source is a Prefab Asset object.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(830,67): warning CS0618: 'PrefabUtility.GetPrefabType(Object)' is obsolete: 'Use GetPrefabAssetType and GetPrefabInstanceStatus to get the full picture about Prefab types.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(832,87): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(833,87): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(834,87): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(835,87): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(855,61): warning CS0618: 'PrefabUtility.FindPrefabRoot(GameObject)' is obsolete: 'Use GetOutermostPrefabInstanceRoot if source is a Prefab instance or source.transform.root.gameObject if source is a Prefab Asset object.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(2623,46): warning CS0618: 'PrefabUtility.GetPrefabType(Object)' is obsolete: 'Use GetPrefabAssetType and GetPrefabInstanceStatus to get the full picture about Prefab types.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(2624,50): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(2625,50): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(2626,50): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(2627,50): warning CS0618: 'PrefabType' is obsolete: 'PrefabType no longer tells everything about Prefab instance.'
+Assets\OdinSerializer\Unity Integration\UnitySerializationUtility.cs(2629,38): warning CS0618: 'PrefabUtility.FindPrefabRoot(GameObject)' is obsolete: 'Use GetOutermostPrefabInstanceRoot if source is a Prefab instance or source.transform.root.gameObject if source is a Prefab Asset object.'
+Assets\OdinSerializer\Core\Misc\ArchitectureInfo.cs(67,22): warning CS0618: 'RuntimePlatform.PS3' is obsolete: 'PS3 export is no longer supported in Unity >=5.5.'
+Assets\OdinSerializer\Core\Misc\ArchitectureInfo.cs(69,22): warning CS0618: 'RuntimePlatform.XBOX360' is obsolete: 'Xbox360 export is no longer supported in Unity 5.5+.'
+Assets\OdinSerializer\Core\Misc\ArchitectureInfo.cs(74,22): warning CS0618: 'RuntimePlatform.WiiU' is obsolete: 'Wii U is no longer supported in Unity 2018.1+.'
+
+3. Preference External Tools, set generate .csproj files.
+
+4. Build
+Assets\OdinSerializer\Core\Misc\ArchitectureInfo.cs(67,22): warning CS0618: 'RuntimePlatform.PS3' is obsolete: 'PS3 export is no longer supported in Unity >=5.5.'
+Assets\OdinSerializer\Core\Misc\ArchitectureInfo.cs(69,22): warning CS0618: 'RuntimePlatform.XBOX360' is obsolete: 'Xbox360 export is no longer supported in Unity 5.5+.'
+Assets\OdinSerializer\Core\Misc\ArchitectureInfo.cs(74,22): warning CS0618: 'RuntimePlatform.WiiU' is obsolete: 'Wii U is no longer supported in Unity 2018.1+.'
+
+
+
+ 

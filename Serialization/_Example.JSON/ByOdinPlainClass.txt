@@ -1,0 +1,12 @@
+{
+    "$id": 0,
+    "$type": "0|GameSettings, Assembly-CSharp",
+    "_complexityGame": $fstrref:"Easy",
+    "_usedPlayMode": 1,
+    "_notCopyToGlobal": false,
+    "_globalDefaultTopList": true,
+    "_masterVolume": 1,
+    "_musicVolume": 1,
+    "_effectVolume": 1,
+    "_musicSequenceType": 2
+}

@@ -1,0 +1,1 @@
+﻿{"_levelPlayer":{"instanceID":17734},"_usedPlayMode":1,"_notCopyToGlobal":false,"_globalDefaultTopList":true,"_masterVolume":3.0,"_musicVolume":4.0,"_effectVolume":5.0,"_musicSequenceType":2,"_levelSOName":"Beginner"}

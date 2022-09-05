@@ -1,0 +1,9 @@
+"_levelPlayer": $eref:0,
+"_usedPlayMode": 1,
+"_notCopyToGlobal": true,
+"_globalDefaultTopList": true,
+"_masterVolume": 200,
+"_musicVolume": 200,
+"_effectVolume": 200,
+"_musicSequenceType": 1,
+"_levelSOName": "Beginner"

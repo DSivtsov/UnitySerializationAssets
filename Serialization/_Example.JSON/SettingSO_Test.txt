@@ -1,0 +1,3 @@
+﻿08b76b06-ab93-4e8d-ac47-544c211b6016
+1
+{"_levelPlayer":{"instanceID":17734},"_usedPlayMode":1,"_notCopyToGlobal":true,"_globalDefaultTopList":true,"_masterVolume":200.0,"_musicVolume":200.0,"_effectVolume":200.0,"_musicSequenceType":1,"_levelSOName":"Beginner"}

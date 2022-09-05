@@ -1,0 +1,8 @@
+"_levelPlayer": $fstrref:"Advanced",
+"_usedPlayMode": 1,
+"_notCopyToGlobal": false,
+"_globalDefaultTopList": true,
+"_masterVolume": 1,
+"_musicVolume": 3,
+"_effectVolume": 1,
+"_musicSequenceType": 1
